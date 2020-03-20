@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kdm-dice/static/css/main.abc94a2e.chunk.css",
+    "main.js": "/kdm-dice/static/js/main.5869afd3.chunk.js",
+    "main.js.map": "/kdm-dice/static/js/main.5869afd3.chunk.js.map",
+    "runtime-main.js": "/kdm-dice/static/js/runtime-main.d9af4252.js",
+    "runtime-main.js.map": "/kdm-dice/static/js/runtime-main.d9af4252.js.map",
+    "static/js/2.f1542bb6.chunk.js": "/kdm-dice/static/js/2.f1542bb6.chunk.js",
+    "static/js/2.f1542bb6.chunk.js.map": "/kdm-dice/static/js/2.f1542bb6.chunk.js.map",
+    "index.html": "/kdm-dice/index.html",
+    "precache-manifest.55e83532875c0a1dff142128c5a07a02.js": "/kdm-dice/precache-manifest.55e83532875c0a1dff142128c5a07a02.js",
+    "service-worker.js": "/kdm-dice/service-worker.js",
+    "static/css/main.abc94a2e.chunk.css.map": "/kdm-dice/static/css/main.abc94a2e.chunk.css.map",
+    "static/js/2.f1542bb6.chunk.js.LICENSE.txt": "/kdm-dice/static/js/2.f1542bb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9af4252.js",
+    "static/js/2.f1542bb6.chunk.js",
+    "static/css/main.abc94a2e.chunk.css",
+    "static/js/main.5869afd3.chunk.js"
+  ]
+}
